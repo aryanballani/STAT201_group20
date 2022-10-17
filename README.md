@@ -1,2 +1,2 @@
-# STAT-201-project_template
-Template project repository for STAT-201
+# STAT-201-project
+Project repository for STAT-201
