@@ -26,7 +26,7 @@ What do we expect of one another regarding attendance at meetings, participation
 
 
 Signatures:
-Brendan Cheng
-Aryan Ballani
-Jennie Zhou
-Rina Forristal 
+- Brendan Cheng
+- Aryan Ballani
+- Jennie Zhou
+- Rina Forristal 
